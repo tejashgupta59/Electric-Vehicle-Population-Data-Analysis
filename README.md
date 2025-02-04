@@ -1,4 +1,4 @@
-# Electric-Vehicle-Population-Data-Analysis
+# Electric Vehicle Market Analysis
 
 This project highlights the seamless integration of SQL and Power BI to analyze and visualize electric vehicle sales data. SQL was used for in-depth querying, including growth rates, penetration levels, and seasonal trends. Power BI transformed this data into interactive dashboards for actionable insights. The combination demonstrates the efficiency of integrating robust data analysis with dynamic visualization tools.
 
